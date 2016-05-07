@@ -1,0 +1,18 @@
+// project files
+.idea
+
+// downloaded libraries
+node_modules
+
+// compiled app
+client-dist
+server-dist
+
+// test coverage
+coverage
+
+// npm fluff
+npm-debug.log
+
+//.DS_Store
+.DS_Store
